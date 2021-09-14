@@ -1,4 +1,6 @@
 # yew-template
+## about
+yew + stylist + trunk template
 ## installation
 ```
 cargo generate --git https://github.com/SSlime-s/yew-template
