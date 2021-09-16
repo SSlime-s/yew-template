@@ -5,4 +5,4 @@ regex = "^-?(0|[1-9][0-9]*)$"
 
 [placeholders.license_name]
 type = "string"
-prompt = "What is license name?"
+prompt = "What is your name? (for license)"
