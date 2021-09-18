@@ -1,7 +1,7 @@
 [placeholders.year]
 type = "string"
 prompt = "What is the current year?"
-regex = "^-?(0|[1-9][0-9]*)$"
+regex = "^(0|-?[1-9][0-9]*)$"
 
 [placeholders.license_name]
 type = "string"
