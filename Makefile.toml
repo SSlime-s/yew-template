@@ -8,6 +8,11 @@ install_crate = "trunk"
 command = "trunk"
 args = ["serve", "--open"]
 
+[tasks.watch]
+install_crate = "trunk"
+command = "trunk"
+args = ["watch"]
+
 [tasks.lint]
 install_crate = "clippy"
 command = "cargo"
