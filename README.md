@@ -24,6 +24,14 @@ OR
 ```
 makers build
 ```
+### hot reload only
+```
+cargo make watch
+```
+OR
+```
+makers watch
+```
 ### format
 ```
 cargo make format
